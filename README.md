@@ -1,4 +1,22 @@
-# rooted-pixel-avd-integrity
+<div align="center">
+
+# Rooted Pixel AVD · Play Integrity
+
+**A reproducible recipe for a rooted Pixel-class Android emulator (AVD) that passes Google Play Integrity.**
+
+[![Verdict](https://img.shields.io/badge/Play_Integrity-MEETS__DEVICE__INTEGRITY-3fd07f?style=flat-square)](docs/INTEGRITY_CHAIN.md)
+[![Play Protect](https://img.shields.io/badge/Play_Protect-certified-3fd07f?style=flat-square)](docs/INTEGRITY_CHAIN.md)
+[![Device](https://img.shields.io/badge/device-Pixel_9_·_android--36-4f8cff?style=flat-square)](device/pif/custom.pif.prop)
+[![Kernel](https://img.shields.io/badge/kernel-custom_6.6_·_KSU--Next_+_SUSFS-7c5cff?style=flat-square)](kernel-build/)
+[![Type](https://img.shields.io/badge/contents-source_+_scripts_only-6b7689?style=flat-square)](#scope)
+
+🌐 **[Live site &amp; overview →](https://tanishmeh.github.io/AVD_Rooted_Integrity/)**
+
+<img src="media/play-integrity-verdict.png" alt="Play Integrity verdict — MEETS_DEVICE_INTEGRITY on a rooted Pixel 9 Pro XL AVD" width="300" />
+
+</div>
+
+---
 
 A reproducible recipe for a **rooted Pixel-class Android emulator (AVD) that
 passes Google Play Integrity** (`MEETS_DEVICE_INTEGRITY`, Play Protect
